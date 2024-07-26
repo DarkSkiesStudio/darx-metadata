@@ -13,7 +13,7 @@
     "files": [
       {
         "uri": "https://raw.githubusercontent.com/DarkSkiesStudio/darx-metadata/main/darx.svg",
-        "type": "image/png"
+        "type": "image/svg"
       }
     ],
     "category": "token"
