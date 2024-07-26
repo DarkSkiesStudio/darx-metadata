@@ -3,19 +3,6 @@
   "symbol": "DARX",
   "description": "Darx - Vampire Wars ecosystem token",
   "image": "https://raw.githubusercontent.com/DarkSkiesStudio/darx-metadata/main/darx.svg",
-  "attributes": [
-    {
-      "trait_type": "Blockchain",
-      "value": "Solana"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/DarkSkiesStudio/darx-metadata/main/darx.svg",
-        "type": "image/svg"
-      }
-    ],
-    "category": "token"
+  "category": "token"
   }
 }
